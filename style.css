@@ -1,0 +1,36 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.nominal {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.sum {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.btn{
+margin-left: 120px;
+}
+
+table{
+    font-size: 20px;
+    background-color: blue;
+    color: beige;
+    margin: 0 auto;
+    border: 3px solid grey;
+    border-collapse: separate;
+   border-spacing: 10px 20px;
+}
+
+td {
+    border: 1px solid grey;
+ }
